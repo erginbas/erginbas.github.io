@@ -2,6 +2,7 @@
 title: "Gramian-based adaptive combination policies for diffusion learning over networks"
 collection: publications
 permalink: /publication/2021-06-icassp-publication
+authors: '<b>Yigit Efe Erginbas</b>, Stefan Vlaski and Ali H. Sayed'
 excerpt: 'This paper presents an adaptive combination strategy for distributed learning over diffusion networks. We develop an adaptive combination rule that aims at optimizing the transient learning performance, while maintaining the enhanced steady-state performance obtained using policies previously developed in the literature.'
 date: 2021-06-06
 venue: 'ICASSP'

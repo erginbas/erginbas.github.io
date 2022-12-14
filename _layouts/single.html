@@ -42,12 +42,16 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
+        {% if post.authors %}
+          <p>{{ post.authors }}</p>
+        {% endif %}
+
         {% if page.abstract %}
-          <p> <b> Abstract: </b> {{ page.abstract }} </p>
+          <p align="justify"> <b> Abstract: </b> {{ page.abstract }} </p>
         {% endif %}
 
         {% if page.citation %}
-          <p>{{ page.citation }} </p>
+          <p align="justify"> {{ page.citation }} </p>
         {% endif %}
 
         {% if page.paperurl %}
