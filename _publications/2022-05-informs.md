@@ -1,5 +1,5 @@
 ---
-title: "Interactive learning with pricing for optimal and stable allocations in markets"
+title: "Interactive recommendations for optimal allocations in markets with constraints"
 collection: publications
 permalink: /publication/2022-10-aistats-publication
 authors: '<b>Yigit Efe Erginbas</b>, Soham Phade, and Kannan Ramchandran'
