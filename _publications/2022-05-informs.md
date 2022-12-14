@@ -1,12 +1,12 @@
 ---
 title: "Interactive recommendations for optimal allocations in markets with constraints"
 collection: publications
-permalink: /publication/2022-10-aistats-publication
+permalink: /publication/2022-05-informs
 authors: '<b>Yigit Efe Erginbas</b>, Soham Phade, and Kannan Ramchandran'
 excerpt: 'Recommendation systems when employed in markets play a dual role: they assist users in selecting their most desired items from a large pool and they help in allocating a limited number of items to the users who desire them the most. Despite the prevalence of capacity constraints on allocations in many real-world recommendation settings, a principled way of incorporating them in the design of these systems has been lacking. Motivated by this, we propose an interactive framework where the system provider can enhance the quality of recommendations to the users by opportunistically exploring allocations that maximize user rewards and respect the capacity constraints using appropriate pricing mechanisms.'
 date: 2022-05-01
 venue: "2022 INFORMS Annual Meeting"
-paperurl: 'http://erginbas.github.io/files/aistats23-paper.pdf'
+paperurl: 'http://erginbas.github.io/files/informs-paper.pdf'
 citation: "Y. E. Erginbas, S. Phade, and K. Ramchandran, “Interactive recommendations for optimal allocations in markets with constraints,” presented at 2022 INFORMS Annual Meeting, May 2022, arXiv:2207.04143."
 abstract: 'Recommendation systems when employed in markets play a dual role: they assist users in selecting their most desired items from a large pool and they help in allocating a limited number of items to the users who desire them the most. Despite the prevalence of capacity constraints on allocations in many real-world recommendation settings, a principled way of incorporating them in the design of these systems has been lacking. Motivated by this, we propose an interactive framework where the system provider can enhance the quality of recommendations to the users by opportunistically exploring allocations that maximize user rewards and respect the capacity constraints using appropriate pricing mechanisms. We model the problem as an instance of a low-rank combinatorial multi-armed bandit problem with selection constraints on the arms. We employ an integrated approach using techniques from collaborative filtering, combinatorial bandits, and optimal resource allocation to provide an algorithm that provably achieves sub-linear regret. Empirical studies on synthetic and real-world data also demonstrate the effectiveness and performance of our approach.'
 ---
