@@ -2,7 +2,7 @@
 title: "Interactive recommendations for optimal allocations in markets with constraints"
 collection: publications
 permalink: /publication/2022-05-informs
-authors: '<b>Yigit Efe Erginbas</b>, Soham Phade, and Kannan Ramchandran'
+authors: '<b>Yigit Efe Erginbas</b>, Soham Phade and Kannan Ramchandran'
 excerpt: 'Recommendation systems when employed in markets play a dual role: they assist users in selecting their most desired items from a large pool and they help in allocating a limited number of items to the users who desire them the most. Despite the prevalence of capacity constraints on allocations in many real-world recommendation settings, a principled way of incorporating them in the design of these systems has been lacking. Motivated by this, we propose an interactive framework where the system provider can enhance the quality of recommendations to the users by opportunistically exploring allocations that maximize user rewards and respect the capacity constraints using appropriate pricing mechanisms.'
 date: 2022-05-01
 venue: "2022 INFORMS Annual Meeting"
