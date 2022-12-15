@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date and page.authors %}
-        <p>{{ page.authors }} <br> <i>{{ page.venue }}</i> </p>
+          <p>{{ page.authors }} <br> <i>{{ page.venue }}</i> </p>
         {% endif %}
 
         {% if page.abstract %}
@@ -45,7 +45,7 @@ layout: default
         {% endif %}
 
         {% if page.citation %}
-          <p align="justify"> {{ page.citation }} </p>
+          <p> {{ page.citation }} </p>
         {% endif %}
 
         {% if page.paperurl %}
