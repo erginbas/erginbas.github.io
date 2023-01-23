@@ -1,10 +1,10 @@
 ---
 title: "Interactive learning with pricing for optimal and stable allocations in markets"
 collection: publications
-permalink: /publication/2022-10-aistats-publication
+permalink: /publication/2023-04-aistats-publication
 authors: '<b>Yigit Efe Erginbas</b>, Soham Phade and Kannan Ramchandran'
 excerpt: "Large-scale online recommendation systems must facilitate the allocation of a limited number of items among competing users while learning their preferences from user feedback. As a principled way of incorporating market constraints and user incentives in the design, we consider our objectives to be two-fold: maximal social welfare with minimal instability. To maximize social welfare, our proposed framework enhances the quality of recommendations by exploring allocations that optimistically maximize the rewards. To minimize instability, a measure of users' incentives to deviate from recommended allocations, the algorithm prices the items based on a scheme derived from the Walrasian equilibria."
-date: 2022-10-01
+date: 2023-04-25
 venue: "AISTATS 2023"
 paperurl: 'http://erginbas.github.io/files/aistats23-paper.pdf'
 citation: "..."
