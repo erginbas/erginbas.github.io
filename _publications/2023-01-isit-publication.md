@@ -3,7 +3,7 @@ title: "Efficiently Computing Sparse Fourier Transforms of $q$-ary Functions"
 collection: publications
 permalink: /publication/2023-01-isit-publication
 authors: '<b>Yigit Efe Erginbas</b>, Justin Singh Kang, Amirali Aghazadeh and Kannan Ramchandran'
-excerpt: 'We develop'
+excerpt: 'We develop a sparse Fourier transform algorithm specifically for $q$-ary functions of length $n$ sequences, dubbed $q$-SFT, which provably computes an $S$-sparse transform with vanishing error as $q^n \rightarrow \infty$ in $O(Sn)$ function evaluations and $O(S n^2 \log q)$ computations, where $S = q^{n\delta}$ for some $\delta < 1$. Under certain assumptions, we show that for fixed $q$, a robust version of $q$-SFT has a sample complexity of $O(Sn^2)$ and a computational complexity of $O(Sn^3)$ with the same asymptotic guarantees. We present numerical simulations on synthetic and real-world RNA data, demonstrating the scalability of $q$-SFT to massively high dimensional $q$-ary functions.'
 date: 2023-01-01
 venue: "submitted to ISIT 2023"
 paperurl: 'http://erginbas.github.io/files/isit23-paper.pdf'
